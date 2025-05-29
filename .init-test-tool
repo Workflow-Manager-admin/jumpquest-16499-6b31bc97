@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/jumpquest-16499-6b31bc97/jumpquest_game"
+}
